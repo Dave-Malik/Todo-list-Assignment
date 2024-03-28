@@ -15,7 +15,7 @@ while (loop) {
       message: "What do you want to do?",
     },
     {
-      type: "consfirm",
+      type: "confirm",
       name: "addMore",
       message: "Do you want to add more?",
       default: false,
